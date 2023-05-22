@@ -1,14 +1,6 @@
 // Project 
 // Space Shooter Game
 
-// Memebers:
-// Muhammad Taha Khan       21L-5238
-// Waleed Khan              21L-5341
-// Iqra Bokhari             21L-5087
-// Fatima Imran             21L-5166
-
-/////////////////////////////////////////////////////////////////////////////////
-
 // Library Files
 #include<graphics.h>
 #include<iostream>
